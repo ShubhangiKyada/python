@@ -5,6 +5,6 @@ m=int(input("Enter num: "))
 
 print("Sum = ",msg.sum(n,m))'''
 
-import sys
+
 
 
